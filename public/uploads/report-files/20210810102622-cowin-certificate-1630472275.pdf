@@ -1,0 +1,131 @@
+%PDF-1.7
+
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /MediaBox [ 0 0 595.00 842.00 ]
+  /Count 1
+  /Kids [  5 0 R  ]
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Outlines
+  /Count 0
+  /First -1 0 R
+  /Last -1 0 R
+>>
+endobj
+
+4 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+      /F1 10 0 R
+>>
+/XObject <<
+/I1 332 0 R
+/GOFPDITPL0 11 0 R
+>>
+/ExtGState <<
+>>
+>>
+endobj
+
+5 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources 4 0 R
+  /Contents  331 0 R 
+>>
+endobj
+
+6 0 obj
+<<
+/Length 1349
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo << /Registry (Adobe)/Ordering (UCS)/Supplement 0>> def
+/CMapName /Adobe-Identity-UCS def /CMapType 2 def
+1 begincodespacerange
+<0003><005B>
+endcodespacerange
+54 beginbfrange
+<0031><0031><004E>
+<004B><004B><0069>
+<0056><0056><0074>
+<0055><0055><0073>
+<004A><004A><0068>
+<0003><0003><0020>
+<002E><002E><004B>
+<0043><0043><0061>
+<004F><004F><006D>
+<0044><0044><0062>
+<0051><0051><006F>
+<004C><004C><006A>
+<0015><0015><0032>
+<001A><001A><0037>
+<0030><0030><004D>
+<004E><004E><006C>
+<0047><0047><0065>
+<0024><0024><0041>
+<0046><0046><0064>
+<0054><0054><0072>
+<0006><0006><0023>
+<003B><003B><0058>
+<0013><0013><0030>
+<0018><0018><0035>
+<001C><001C><0039>
+<0016><0016><0033>
+<0019><0019><0036>
+<001B><001B><0038>
+<0017><0017><0034>
+<0026><0026><0043>
+<0032><0032><004F>
+<0039><0039><0056>
+<002C><002C><0049>
+<0036><0036><0053>
+<002B><002B><0048>
+<0028><0028><0045>
+<002F><002F><004C>
+<0027><0027><0044>
+<005B><005B><0079>
+<0014><0014><0031>
+<000B><000B><0028>
+<0025><0025><0042>
+<0045><0045><0063>
+<0050><0050><006E>
+<0011><0011><002E>
+<003D><003D><005A>
+<000C><000C><0029>
+<0057><0057><0075>
+<0049><0049><0067>
+<0035><0035><0052>
+<0012><0012><002F>
+<002A><002A><0047>
+<0010><0010><002D>
+<000F><000F><002C>
+endbfrange
+endcmap CMapName currentdict /CMap defineresource pop end end
+endstream
+endobj
+
+7 0 obj
+<</Length 7356
+/Filter /FlateDecode
+/Length1 10768
+>>
+stream
+x

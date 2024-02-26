@@ -1,0 +1,13 @@
+{
+    "status": true,
+    "db": false,
+    "data": {
+        "mobile_number": "9876543216",
+        "mobile_validity": "valid",
+        "verification_check": "pending",
+        "result": {
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiI0NDAyMTUzOS1iYWFiLTQ3YzQtOGZlYi1jZmNmMzQ2MDE5YjciLCJ1c2VyX3R5cGUiOiJCRU5FRklDSUFSWSIsInVzZXJfaWQiOiI0NDAyMTUzOS1iYWFiLTQ3YzQtOGZlYi1jZmNmMzQ2MDE5YjciLCJtb2JpbGVfbnVtYmVyIjo4NzAwMDM1NDI2LCJiZW5lZmljaWFyeV9yZWZlcmVuY2VfaWQiOjE0MzcxODk2NDEzOTMsInR4bklkIjoiOTc1NTY3YTAtNTU4ZS00NTNmLTgwYmQtM2RhY2ZmZDE2ZDU4IiwiaWF0IjoxNjI5MTA3NjkwLCJleHAiOjE2MjkxMDg1OTB9.n5VPnnaTGa77W28DSmsdeQkrkblzLhBtj58nX2hnyPQ"
+        }
+    },
+    "message": "Mobile Number Verified !"
+}

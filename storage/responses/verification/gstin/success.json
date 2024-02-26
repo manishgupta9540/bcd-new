@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "data": {
+        "gst_number": "37AAACI4403L1ZN",
+        "gst_validity": "valid",
+        "verification_check": "completed",
+        "result": {
+            "gst_number_exist": "37AAACI4403L1ZN",
+            "business_name": "IBM  INDIA PVT LTD",
+	        "address" : "IBM",
+	        "center_jurisdiction" :"IBM",
+            "date_of_registration": "2017-07-01",
+            "constitution_of_business": "Private Limited Company",
+            "taxpayer_type": "Regular",
+            "gstin_status": "Active"
+        }
+    },
+    "initiated_date": "28-05-2021",
+    "completed_date": "28-05-2021",
+    "message": "Verification Done Successfully !!"
+}

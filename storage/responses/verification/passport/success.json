@@ -1,0 +1,18 @@
+{
+    "status": true,
+    "data": {
+        "passport_number": "Y5094251",
+        "passport_validity": "valid",
+        "verification_check": "completed",
+        "result": {
+            "passport_number_exist": "Y5094252",
+            "name": "MONIKA GAUTAM",
+            "dob": "1991-07-05",
+            "file_number": "BP8063370822817",
+            "date_of_application": "2019-02-15"
+        }
+    },
+    "initiated_date": "28-05-2021",
+    "completed_date": "28-05-2021",
+    "message": "Verification Done Successfully !!"
+}

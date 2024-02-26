@@ -1,0 +1,3 @@
+client_emp_code,entity_code,first_name,middle_name,last_name,father's_name,aadhaar_number,dob,gender,phone,email,jaf_filling_access,frnid,recruiter,source,cost_code,grade
+Optional,Optional,Edward,hatfield (optional),demon (optional),Lynard,123245873215,14-07-1992,male/female,9023415263,abc@yopmail.com,Customer/Candidate/COC,,,,,
+Optional,Optional,Bryan,Elike (optional),flies (optional),Wiiliam Jones,784596123645,18-09-1990,male/female,8123657896,abc@yopmail.com,Customer/Candidate/COC,,,,,

@@ -1,0 +1,18 @@
+{
+    "status": true,
+    "data": {
+        "aadhar_number": "986018457823",
+        "aadhar_validity": "valid",
+        "verification_check": "completed",
+        "result": {
+            "aadhar_number_exist": "986018457823",
+            "age_bond": "20-30",
+            "gender": "Male",
+            "state": "Delhi",
+            "mobile_last_digits": 28
+        }
+    },
+    "initiated_date": "19-05-2021",
+    "completed_date": "19-05-2021",
+    "message": "Verification Done Successfully !!"
+}

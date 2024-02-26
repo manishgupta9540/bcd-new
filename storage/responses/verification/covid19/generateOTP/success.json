@@ -1,0 +1,14 @@
+{
+    "status": true,
+    "db": false,
+    "data": {
+        "mobile_number": "9876543216",
+        "mobile_validity": "valid",
+        "verification_check": "pending",
+        "result": {
+            "otp_id": "OA==",
+            "txnId": "a46bf20f-5e2a-4da0-ba2e-e433aa3360ea"
+        }
+    },
+    "message": "SMS Sent to your mobile Number !"
+}

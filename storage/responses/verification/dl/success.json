@@ -1,0 +1,23 @@
+{
+    "status": true,
+    "data": {
+        "dl_number": "DL0520160307903",
+        "dl_validity": "valid",
+        "verification_check": "completed",
+        "result": {
+            "dl_number_exist": "DL0520160307903",
+            "name": "AAKASH KUMAR VERMA",
+            "gender": "Male",
+            "dob": "1996-02-18",
+            "father_or_husband_name": "GIRISH KUMAR SHARMA",
+            "permanent_address": "V-307 GALI NO- 22 V- BLOCKVIJAY PARK,DELHI",
+            "state": "DL",
+            "citizenship": "IND",
+            "dto": "DY.DIR.ZONAL OFFICE,DELHI NORTH EAST, LONI ROAD",
+            "date_of_expiry": "2036-09-15"
+        }
+    },
+    "initiated_date": "28-05-2021",
+    "completed_date": "28-05-2021",
+    "message": "Verification Done Successfully !!"
+}

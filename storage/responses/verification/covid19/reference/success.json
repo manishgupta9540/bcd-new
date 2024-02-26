@@ -1,0 +1,14 @@
+{
+    "status": true,
+    "db": true,
+    "data": {
+        "mobile_number": "9876543216",
+        "reference_id": "5396583336879",
+        "mobile_validity": "valid",
+        "verification_check": "completed",
+        "result": {
+            "url": "http://bcdb2b.local/cowin/certificate/202108160656223-cowin-certificate.pdf"
+        }
+    },
+    "message": "Verification Done !"
+}

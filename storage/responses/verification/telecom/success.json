@@ -1,0 +1,25 @@
+{
+    "status": true,
+    "db": true,
+    "data": {
+        "mobile_number": "XXXXXXXX16",
+        "mobile_validity": "valid",
+        "verification_check": "completed",
+        "result": {
+            "name": "Ravi Bishnoi",
+            "dob": "03 March, 1996",
+            "address": "dfdfsgsdf",
+            "mobile": "XXXXXXXX16",
+            "alternative": "XXXXXXXX47",
+            "operator": "vi",
+            "billing_type": "prepaid",
+            "email": "N/A",
+            "city": "South delhi",
+            "state": "Delhi",
+            "pin_code": "110007"
+        }
+    },
+    "initiated_date": "29-05-2021",
+    "completed_date": "29-05-2021",
+    "message": "Verification Done Successfully !!"
+}

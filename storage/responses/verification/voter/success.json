@@ -1,0 +1,21 @@
+{
+    "status": true,
+    "data": {
+        "voter_id_number": "BCQ5016258",
+        "voter_id_validity": "valid",
+        "verification_check": "completed",
+        "result": {
+            "voter_id_number_exist": "BCQ5016258",
+            "full_name": "Souvik Mukherjee",
+            "gender": "Male",
+            "age": "36",
+            "dob": null,
+            "house_no": "",
+            "area": "Bahir Sarbamangala Harijan F.P School",
+            "state": "West Bengal"
+        }
+    },
+    "initiated_date": "19-05-2021",
+    "completed_date": "19-05-2021",
+    "message": "Verification Done Successfully !!"
+}

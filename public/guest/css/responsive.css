@@ -1,0 +1,471 @@
+@media(max-width:2000px){
+.layout-sidebar-large .sidebar-left.open {
+        left: 0 !important;
+    }
+    .verification-table th {
+        min-width: 385px;
+        text-align: center;
+    }
+    .verification-table tr{
+        text-align: center;
+    }
+    .vericheckbox .right {
+        margin-left: 100px;
+        text-align: left;
+    }
+    .vericheckbox .left input[type="checkbox"] {
+        box-sizing: border-box;
+        width: 15px;
+        height: 35px;
+    }
+
+
+}
+@media(max-width:768px){
+    .mt-80 {
+        margin-top: 45px !important;
+    }
+    /* .verification-table{
+        overflow-x: auto !important;
+    } */
+  
+    .column-rev{
+            flex-direction: column-reverse !important;
+    }
+    .container{
+            max-width: 720px;
+    }
+    .banner-section {
+        height: 415px !important;
+    }
+    .sec-one-left {
+        top: 65px !important;
+    }
+    .flext-wrap{
+        flex-wrap: wrap !important;
+    }
+    .sec-one-left h4 {
+        color: #F63A55;
+        font-size: 43px !important;
+        font-weight: 600;
+        width: 75%;
+        margin-right: auto;
+        
+    }
+    .sec-one-left h6 {
+        font-size: 23px !important;
+        color: #000000;
+        line-height: 30px !important;
+        width: 75% !important;
+        margin-top: 10px !important;
+    }
+    .changegame h2{
+        margin-top: 20px;
+    }
+    .why-choose h2{
+        margin-top: 20px;
+    }
+    .contact-banner .sec-one-left {
+        top: 135px !important;
+    }
+    .contact-us .sec-six-heading {
+        text-align: left;
+    }
+    .banner-1 .left-content{
+        display: none;
+    }
+  
+    .main-header .md-none {
+     display: none !important;
+    }
+    .layout-sidebar-large .main-header .header-part-right .user {
+        text-align: right;
+    }
+    .dropdown, .dropleft {
+        top: -10px;
+    }
+    .layout-sidebar-large .main-header .header-part-right {
+        justify-content: space-between;
+        width: 63%;
+    }
+    .layout-sidebar-large .main-header {
+        height: 85px;
+
+        padding: 20px;
+    }
+    .main-content-wrap {
+        min-height: auto;
+    }
+  
+}
+
+
+@media(max-width:576px){
+    h2{
+        font-size: 18px;
+    }
+    p{
+        line-height: 23px;
+        color: #444444;
+        font-size: 14px;
+    }
+    h4{
+        font-size: 16px !important;
+    }
+    .md-none{
+        display: none !important;
+    }
+    .dsk-none{
+        display: block !important;
+    }
+    .fx-img{
+        width: 64px !important; 
+        height: 64px !important;
+    }
+    .p-0{
+        padding: 0px !important;
+    }
+    .m-bt-0{
+        margin: 0px !important;
+    }
+    .mb-text-left{
+        text-align: left !important;
+    }
+    .mt-80{
+        margin-top: 35px !important;
+    }
+    .flex-opp{
+            flex-direction: column-reverse;
+    }
+    .first-container {
+        padding: 0px 12px;
+    }
+    .banner-section {
+        height: 190px !important;
+        background-position: center !important;
+    }
+    .banner-section h6{
+        font-size: 12px !important;
+    }
+    .sec-one-left {
+        position: absolute !important;
+        top: 40px !important;
+    }
+    .sec-one-left h4 {
+        color: #F63A55;
+        font-size: 16px !important;
+        width: 58%;
+    }
+    .sec-one-left h6 {
+        line-height: 21px;
+        width: 80%;
+        margin-top: 7px;
+    }
+    .changegame .container{
+        margin-top: 35px !important;
+    }
+    .why-choose h5 {
+        font-size: 15px;
+        width: 80%;
+        margin: 10px auto;
+    }
+    .instant-verify{
+        margin-bottom: 0px !important;
+    }
+    .instant-verify h3 {
+        font-size: 16px !important;
+        margin: 15px 0px !important;
+        text-align: center !important;
+        line-height: 25px !important;
+    }
+    .instant-verify {
+        padding: 15px !important;
+    }
+    .instant-verify h4{
+        font-size: 19px;
+    }
+    .advance-feature h2 {
+        color: #142550;
+        font-weight: 600;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .advance-feature .box:last-child{
+        margin-bottom: 0px !important;
+    }
+    .advance-feature .box img{
+        margin: 15px 0;
+    }
+    .sec-six-heading h4 {
+        margin-bottom: 10px;
+    }
+    .sec-six-heading h6 {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .clients-slide .client-box{
+        padding-bottom: 18px !important;
+    }
+    .footer-list li {
+        margin: 0px !important;
+    }
+    .main-content-wrap {
+        margin-top: 0px !important;
+        padding-top: 0;
+    }
+    .mobile-header {
+        /* padding: 15px; */
+        box-shadow: 0 0 16px -10px rgb(0 0 0 / 80%);
+        position: sticky;
+        z-index: 9;
+        padding: 15px 0;
+        padding-top: 15px;
+        padding-bottom: 10px;
+        position: fixed;
+        top: 0;
+        z-index: 999999;
+        background: #fff;
+    }
+    .mobile-header .cart {
+        position: absolute;
+        right: 36px;
+        top: 26px;
+    }
+    .mobile-header .logo{
+        width: 30%;
+    }
+    .mobile-header .logo img{
+        width: 100%;
+    }
+    .mobile-header .flex {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .mobile-header .toggle-bar .fa{
+        font-size: 28px !important;
+    }
+    .left-0{
+        left: 0px !important;
+    }
+    .layout-sidebar-large .sidebar-left {
+        margin-top: 50px !important;
+    }
+
+    
+    .layout-sidebar-large .main-header {
+       height: 115px;
+        padding: 15px;
+    }
+  
+    .d-flex.align-items-center {
+        padding-left: 0px!important;
+    }
+    ul.breadcrumb {
+        list-style: none;
+        display: inline;
+    }
+    ul.breadcrumb li {
+        font-size: 13px !important;
+    }    
+    ul.breadcrumb li a {
+        font-weight: 600 !important;
+    }
+    .tableFixHead thead th {
+        min-width: 140px;
+    }
+    span.count {
+        font-size: 23px;
+    }
+    .newrequestcard h3{
+        font-size: 23px !important;
+        margin-top: 20px !important;
+        margin-bottom: 7px !important;
+    }
+    .newrequestcard .card-body{
+        padding: 0px !important;
+        padding: 15px !important;
+    }
+    .requestrow  .input-group.value-increase {
+        margin: 5px 0 15px !important;
+        padding: 0;
+    }
+    .newrequestcard .submit{
+        margin: 13px 0px !important;
+        font-size: 14px !important;
+        float: left !important;
+        padding: 8px 5px !important;
+     
+    width: 85% !important;
+    }
+    .back-arrow .fa-arrow-circle-left:before {
+        font-size: 20px;
+    }
+    .content-container .aside-nav {
+        position: static !important;
+        padding-bottom: 10px;
+        z-index: 0;
+        min-height: auto !important;
+        margin-top: 30px;
+    }
+    .layout-sidebar-large .sidebar-left{
+        margin-top: 0px  !important;
+        top: 118px !important;
+    }
+    .sec-one-left h6 {
+        font-size: 12px !important;
+        color: #000000 !important;
+        font-weight: 600 !important;
+        line-height: 21px !important;
+        width: 56% !important;
+    }
+    .sec-six-heading{
+        padding: 0px !important;
+        padding-bottom: 20px;
+    }
+    .sec-six-heading h6 {
+        font-size: 16px;
+        line-height: 24px;
+        text-align: left;
+    }
+    .sec-six-heading h4 {
+        font-size: 19px !important;
+        text-align: left;
+    }
+    .contact-ways {
+        text-align: left;
+        width: 85%;
+    }
+    .contact-us {
+        margin-top: 25px;
+    }
+  
+   .home h3.card-title.mb-3 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 18px;
+    }
+    .home-main-content{
+        margin-top: 0px !important;
+    }
+    
+    .aside-nav{
+        padding-bottom: 0px !important;
+    }
+    .verification-table{
+        margin-top: 10px;
+    }
+    .verification-table thead th:first-child{
+        min-width: 225px;
+    }
+    .verification-table thead th:nth-child(3){
+        min-width: 140px;
+    }
+    .verification-table thead th:last-child{
+            min-width: 140px;
+    }
+    .verification-table thead th{
+
+        min-width: 269px;
+    }
+    .mobile-header .below-header .left-name p{
+        margin-bottom: 0px;
+    }
+    .mobile-header .verification-box a {
+        background-color: #003473;
+        padding: 9px 8px;
+        border-radius: 3px;
+        color: #fff;
+        font-size: 11px;
+    }
+    .mobile-header .left-name {
+        width: 36%;
+    }
+    .mobile-header .left-name p{
+        font-size: 11px;
+    }
+    .mobile-header .dropdown {
+       position: static !important;
+       width: 14%
+    }
+    .mobile-header .dropdown  .user img{
+        border-radius: 100%;
+    }
+    .mobile-header .dropdown .align-self-end{
+        padding-right: 0px;
+    }
+    .mobile-header .below-header{
+        margin-top: 10px;
+    }
+    .vericheckbox .right {
+        margin-left: 40px;
+        width: 72%;
+    }
+    .vericheckbox .right span {
+        font-size: 15px;
+        font-weight: 700;
+    }
+    .vericheckbox .right p {
+        font-size: 12px;
+        margin-top: 0px;
+    }
+    .order-table thead th{
+        border-bottom: unset !important;
+        min-width: 150px !important;
+    }
+    .id-checks thead th{
+        border-bottom: unset !important;
+        min-width: 220px
+    }
+    .id-checks thead th:first-child{
+        border-bottom: unset !important;
+        min-width: 155px;
+    }
+    .id-checks thead th:last-child{
+        border-bottom: unset !important;
+        min-width: 100px
+    }
+    .newrequestcard .card-body{
+        padding: 0px;
+    }
+    #addCartForm .submit .submit_btn{
+              width: 45% !important;
+              float: left !important;
+    }
+    .hr-rspons{
+        width: 25% !important;
+        margin: 8px auto !important;
+    
+    }
+    #verificationForm .row.cartone {
+        padding: 0;
+        flex-direction: column-reverse;
+    }
+    .main-content-wrap .main-content {
+        margin-top: 140px !important;
+    }
+    .change-pswd  .card-body{
+        height: auto !important;
+    }
+    .change-pswd  .page-header{
+        margin-top: 0px !important;
+    }
+    .formCover{
+        height: auto !important;
+    }
+    .contact-banner .sec-one-left {
+        top: 56px !important;
+    }
+    .cssload-loader {
+        width: 584px !important;
+        height: 69px !important;
+        top: 50% !important;
+        left: 50% !important;
+        transform: translate(-50%, -50%) !important;
+    }
+    .payment-sucess .md-none{
+        display: none !important   
+     }
+   
+
+}

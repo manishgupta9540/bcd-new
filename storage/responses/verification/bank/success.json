@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "data": {
+        "account_number": "164001502522",
+        "account_validity": "valid",
+        "verification_check": "completed",
+        "result": {
+            "name": "AMIT SAH",
+            "account_number": "164001502522",
+            "ifsc_code": "ICIC0002644"
+        }
+    },
+    "initiated_date": "28-05-2021",
+    "completed_date": "28-05-2021",
+    "message": "Verification Done Successfully !!"
+}

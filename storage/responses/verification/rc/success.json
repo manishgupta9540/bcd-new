@@ -1,0 +1,24 @@
+{
+    "status": true,
+    "data": {
+        "rc_number": "UP82AE1242",
+        "rc_validity": "valid",
+        "verification_check": "completed",
+        "result": {
+            "rc_number_exist": "UP82AE1242",
+            "registration_date": "2019-05-14",
+            "owner_name": "CHETAN PRAKASH VERMA",
+            "vehicle_chasis_number": "MA3JMT31SKD1XXXXX",
+            "vehicle_engine_number": "K10BN82XXXXX",
+            "fuel_type": "PETROL",
+            "norms_type": "BHARAT STAGE IV",
+            "insurance_company": "",
+            "insurance_policy_number": "",
+            "insurance_upto": "2021-04-14",
+            "registered_at": "ETAH, UTTAR PRADESH"
+        }
+    },
+    "initiated_date": "20-05-2021",
+    "completed_date": "20-05-2021",
+    "message": "Verification Done Successfully !!"
+}

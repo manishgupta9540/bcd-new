@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "db": false,
+    "data": {
+        "mobile_number": "XXXXXXXX16",
+        "mobile_validity": "valid",
+        "verification_check": "pending",
+        "result": {
+            "client_id": "telecom_CaoEgfyNCELFgdiulUco",
+            "otp_sent": true,
+            "operator": "vi",
+            "if_number": true
+        }
+    },
+    "message": "SMS Sent to your mobile Number !"
+}
